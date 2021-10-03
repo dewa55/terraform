@@ -1,0 +1,1 @@
+app_service folder holds locals.tf which is taking var `authorized_ip` and forwards it to main.tf of app_service

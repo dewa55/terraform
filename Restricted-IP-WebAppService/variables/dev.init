@@ -1,0 +1,4 @@
+resource_group_name = "vdevcic-test"
+storage_account_name = "storageaccountvdevcic"
+container_name = "vdecictest"
+key = "aliot-portal-tf-dev-vdevcic"
